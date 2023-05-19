@@ -1,5 +1,5 @@
 <center>
-<h1> 🏚️Random jokes joke using data source</h1>
+<h1>Random jokes joke using data source</h1>
 </center>
 <center>
 <a href="Java url">
@@ -74,4 +74,3 @@ This endpoint makes a call to method in Service class which is connected to data
 
 I have created Random jokes joke using data source project.  In this project, In this project user  Can delete , update , get ,  can find. etc...
 
-![Alt text](https://media.tenor.com/Ra5kgH_k8yMAAAAj/thank-you-thank-you-heart.gif)
